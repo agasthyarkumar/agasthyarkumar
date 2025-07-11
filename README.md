@@ -47,7 +47,7 @@ I’m **Agasthya R Kumar**, a passionate Machine Learning enthusiast currently p
 
 ## 🎵 Currently Listening
 > _“Focus and lo-fi beats to code better!”_  
-![Sandalwood Goldiess](https://open.spotify.com/playlist/6B6QiN8g3XSFZNjFipccXc?si=sRDCW1j_QdSwkQ8nrHz1HQ) 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6B6QiN8g3XSFZNjFipccXc?si=sRDCW1j_QdSwkQ8nrHz1HQ) 
 
 ---
 
