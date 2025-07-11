@@ -96,6 +96,6 @@
 <hr/>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=agasthyarkumar&icon=9&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=agasthyarkumar&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
