@@ -1,98 +1,108 @@
-<h1 align="center">Hey 👋, I'm Agasthya R Kumar</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | B.Tech. @ DSU Bengaluru (2026) 🚀</h3>
+<div align="center">
+  <pre>
+   _____              _             _   _                
+  / ____|            | |           | | (_)               
+ | (___   __ _  _ __ | |_  ___  ___| |_ _  ___  _ __  ___ 
+  \___ \ / _` || '_ \| __|/ _ \/ __| __| |/ _ \| '_ \/ __|
+  ____) | (_| || | | | |_|  __/\__ \ |_| | (_) | | | \__ \
+ |_____/ \__,_||_| |_|\__|\___||___/\__|_|\___/|_| |_|___/
+  </pre>
+  <h3>Machine Learning Enthusiast & Problem Solver</h3>
+</div>
 
----
+<hr/>
 
-### 💫 About Me
-- 🔭 Currently working on **Multiple Cardiovascular Disease Classification** (ECG Signals)
-- 🤖 Building projects: **Animal Face Recognition**, **Sound Analysis**, **Digit Generator**
-- 🌱 Learning **JavaScript** to expand into web dev
-- 💡 I believe in using tech to solve real-world problems and help society!
+## 💫 About Me
 
----
+<p align="justify">
+  Hello! I'm <strong>Agasthya R Kumar</strong>, a B.Tech. candidate at Dayananda Sagar University, Bengaluru (2026). 
+  I thrive on crafting cutting-edge ML solutions and have deep expertise in:</p>
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/agasthyarkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:agasthyarkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<ul>
+  <li>🔬 <strong>ECG Signal Analysis:</strong> Multi-class cardiovascular disease classification</li>
+  <li>🐾 <strong>Computer Vision:</strong> Animal Face Recognition</li>
+  <li>🔊 <strong>Audio Processing:</strong> Sound Analysis & Digit Generation</li>
+</ul>
+
+<p align="justify">
+  Currently sharpening my <strong>JavaScript</strong> skills to seamlessly integrate ML into interactive web applications.
 </p>
 
----
+<hr/>
 
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🏆 LeetCode Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://leetcode.com/agasthyarkumar/">
-    <img src="https://leetcard.jacoblin.cool/agasthyarkumar?theme=dark&font=Abel&ext=contest"/>
+  <a href="https://www.linkedin.com/in/agasthyarkumar/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:agasthyarkumar@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Stats
+## 💻 Tech Stack & Proficiency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agasthyarkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agasthyarkumar&theme=dark&hide_border=false" height="170px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agasthyarkumar&theme=dark&hide_border=false&layout=compact"/>
+  <!-- Skill Bar: Python -->
+  <img align="center" src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img align="center" src="https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img align="center" src="https://img.shields.io/badge/Scikit--Learn-85%25-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/NumPy-90%25-blue?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img align="center" src="https://img.shields.io/badge/Pandas-85%25-purple?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img align="center" src="https://img.shields.io/badge/Matplotlib-80%25-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+</p>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-75%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img align="center" src="https://img.shields.io/badge/MySQL-65%25-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
+<hr/>
 
-### ✍️ Quote of the Day
+## 🏆 Stats & Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agasthyarkumar&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agasthyarkumar&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/agasthyarkumar?theme=dark&ext=contest" />
 </p>
 
----
+<hr/>
 
-### 🎵 Currently Listening
+## 🎵 Current Vibes
 
 <p align="center">
-  <em>Focus and lo-fi beats to code better!</em><br/>
   <a href="https://open.spotify.com/playlist/6B6QiN8g3XSFZNjFipccXc?si=sRDCW1j_QdSwkQ8nrHz1HQ">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Listen_Lo-Fi_Beats-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  <p><em>Focus Mode: Activated 🎧</em></p>
 </p>
 
----
+<hr/>
 
-### ⚡ Fun Fact
+## ✍️ Quote
 
-<p align="center"><b>I can spend hours debugging ML models without noticing time fly by!</b></p>
+<blockquote align="center" style="font-style:italic;">
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House
+</blockquote>
 
----
+<hr/>
+
+## ⚡ Fun Fact
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=agasthyarkumar&icon=9&color=1"/>
+  🌌 I can debug ML models while listening to space ambient mixes for hours!
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=agasthyarkumar&icon=9&color=1" />
 </p>
