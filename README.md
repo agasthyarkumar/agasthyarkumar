@@ -1,16 +1,8 @@
 <div align="center">
-  <pre>
-   _____              _             _   _                
-  / ____|            | |           | | (_)               
- | (___   __ _  _ __ | |_  ___  ___| |_ _  ___  _ __  ___ 
-  \___ \ / _` || '_ \| __|/ _ \/ __| __| |/ _ \| '_ \/ __|
-  ____) | (_| || | | | |_|  __/\__ \ |_| | (_) | | | \__ \
- |_____/ \__,_||_| |_|\__|\___||___/\__|_|\___/|_| |_|___/
-  </pre>
-  <h3>Machine Learning Enthusiast & Problem Solver</h3>
+  <img src="/mnt/data/A_banner_image_in_digital_graphic_design_introduce.png" alt="Agasthya R Kumar Banner" />
 </div>
 
-<hr/>
+<!-- Rest of your existing README content goes here -->
 
 ## 💫 About Me
 
