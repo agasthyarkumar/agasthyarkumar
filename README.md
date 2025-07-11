@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="banner.png" alt="Agasthya R Kumar Banner" />
+</div>
 
 <!-- Rest of your existing README content goes here -->
 
