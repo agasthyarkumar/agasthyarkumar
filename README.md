@@ -33,6 +33,14 @@ I’m **Agasthya R Kumar**, a passionate Machine Learning enthusiast currently p
 
 ---
 
+## 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/agasthyarkumar?theme=dark&font=Abel&ext=contest)](https://leetcode.com/agasthyarkumar/)
+
+
+---
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=agasthyarkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=agasthyarkumar&theme=dark&hide_border=false)<br/>
