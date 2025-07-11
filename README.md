@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/A_banner_image_in_digital_graphic_design_introduce.png" alt="Agasthya R Kumar Banner" />
+  <img src="banner.png" alt="Agasthya R Kumar Banner" />
 </div>
 
 <!-- Rest of your existing README content goes here -->
