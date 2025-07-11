@@ -1,67 +1,98 @@
-# 💫 About Me:
-Hey there! 👋  
-I’m **Agasthya R Kumar**, a passionate Machine Learning enthusiast currently pursuing my B.Tech. at Dayananda Sagar University, Bengaluru (Graduating in 2026).  
-
-🔭 I’m currently working on **Multiple Cardiovascular Disease Classification using ECG Signals** and building ML solutions like **Animal Face Recognition**, **Sound Analysis**, and **Digit Generator**.  
-🌱 I’m currently learning **JavaScript** to expand my skills into web development.  
-💡 I’m driven by a simple goal: **to use technology to help society and solve real-world problems.**  
+<h1 align="center">Hey 👋, I'm Agasthya R Kumar</h1>
+<h3 align="center">🚀 Machine Learning Enthusiast | B.Tech. @ DSU Bengaluru (2026) 🚀</h3>
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agasthyarkumar/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agasthyarkumar@gmail.com)
+### 💫 About Me
+- 🔭 Currently working on **Multiple Cardiovascular Disease Classification** (ECG Signals)
+- 🤖 Building projects: **Animal Face Recognition**, **Sound Analysis**, **Digit Generator**
+- 🌱 Learning **JavaScript** to expand into web dev
+- 💡 I believe in using tech to solve real-world problems and help society!
 
 ---
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/agasthyarkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:agasthyarkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 LeetCode Stats
+### 💻 Tech Stack
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/agasthyarkumar?theme=dark&font=Abel&ext=contest)](https://leetcode.com/agasthyarkumar/)
-
-
----
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=agasthyarkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=agasthyarkumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agasthyarkumar&theme=dark&hide_border=false&layout=compact)
-
----
-
-## ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🎵 Currently Listening
-> _“Focus and lo-fi beats to code better!”_  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6B6QiN8g3XSFZNjFipccXc?si=sRDCW1j_QdSwkQ8nrHz1HQ) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-**I can spend hours debugging ML models without noticing time fly by!**
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/agasthyarkumar/">
+    <img src="https://leetcard.jacoblin.cool/agasthyarkumar?theme=dark&font=Abel&ext=contest"/>
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=agasthyarkumar&icon=9&color=1)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agasthyarkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agasthyarkumar&theme=dark&hide_border=false" height="170px"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agasthyarkumar&theme=dark&hide_border=false&layout=compact"/>
+</p>
+
+---
+
+### ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+### 🎵 Currently Listening
+
+<p align="center">
+  <em>Focus and lo-fi beats to code better!</em><br/>
+  <a href="https://open.spotify.com/playlist/6B6QiN8g3XSFZNjFipccXc?si=sRDCW1j_QdSwkQ8nrHz1HQ">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+<p align="center"><b>I can spend hours debugging ML models without noticing time fly by!</b></p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=agasthyarkumar&icon=9&color=1"/>
+</p>
