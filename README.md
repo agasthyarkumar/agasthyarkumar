@@ -22,6 +22,15 @@
 
 <hr/>
 
+## 🧑🏻‍💻 My Portfolio 
+<div align="center">
+  <a href="https://agasthyarkumar.github.io/AgasthyaPortfolio/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge" alt="Visit My Portfolio" />
+  </a>
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
