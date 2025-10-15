@@ -22,12 +22,10 @@
 
 <hr/>
 
-<hr/>
-
 ## 🌍 Portfolio Website
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank" title="Visit My Portfolio">
+  <a href="https://agasthyarkumar.github.io/Agasthya-R-Kumar/" target="_blank" title="Visit My Portfolio">
     <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website Badge" />
   </a>
 </p>
