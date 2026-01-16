@@ -7,7 +7,7 @@
 ## 💫 About Me
 
 <p align="justify">
-  Hello! I'm <strong>Agasthya R Kumar</strong>, a B.Tech. candidate at Dayananda Sagar University, Bengaluru (2026). 
+ I create exceptional digital experiences with modern web technologies, focusing on performance, accessibility, and stunning design.
   I thrive on crafting cutting-edge ML solutions and have deep expertise in:</p>
 
 <ul>
