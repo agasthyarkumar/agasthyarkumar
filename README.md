@@ -51,22 +51,51 @@
 
 ## 💻 Tech Stack & Proficiency
 
+### 🔹 Core Data & Backend
 <p align="center">
-  <!-- Skill Bar: Python -->
-  <img align="center" src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img align="center" src="https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img align="center" src="https://img.shields.io/badge/Scikit--Learn-85%25-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-92%25-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-88%25-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+### 🔹 Data Processing & Analytics
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/NumPy-90%25-blue?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img align="center" src="https://img.shields.io/badge/Pandas-85%25-purple?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img align="center" src="https://img.shields.io/badge/Matplotlib-80%25-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-90%25-purple?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-88%25-blue?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-90%25-orange?style=for-the-badge" />
 </p>
+
+### 🔹 Dashboards & Visualization
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img align="center" src="https://img.shields.io/badge/HTML5-75%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img align="center" src="https://img.shields.io/badge/MySQL-65%25-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-78%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-80%25-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=black" />
 </p>
+
+### 🔹 AI / ML (Practical Focus)
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-82%25-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-75%25-orange?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
+
+### 🔹 Platforms & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-85%25-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-80%25-grey?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Studio-90%25-purple?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 What I Actually Do
+- Design **data pipelines** and complex **MongoDB aggregation frameworks**
+- Build **analytics dashboards** with React and KPI-driven UI
+- Develop **production-grade Python** for ETL, data validation, and reporting
+- Work deeply with **supply-chain, operations, and performance metrics**
+- Apply **ML models** where they add real business value
+
+> **Profile:** Data Engineer • Analytics Developer • Backend-Focused Problem Solver
+
 
 <hr/>
 
