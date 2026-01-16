@@ -58,12 +58,16 @@
   <img src="https://img.shields.io/badge/SQL-88%25-lightgrey?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
+
 ### 🔹 Data Processing & Analytics
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-90%25-purple?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-88%25-blue?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Cleaning-90%25-orange?style=for-the-badge" />
 </p>
+
+---
 
 ### 🔹 Dashboards & Visualization
 <p align="center">
@@ -72,11 +76,15 @@
   <img src="https://img.shields.io/badge/Matplotlib-80%25-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=black" />
 </p>
 
+---
+
 ### 🔹 AI / ML (Practical Focus)
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-82%25-yellow?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-75%25-orange?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
+
+---
 
 ### 🔹 Platforms & Workflow
 <p align="center">
@@ -84,6 +92,34 @@
   <img src="https://img.shields.io/badge/Linux-80%25-grey?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Studio-90%25-purple?style=for-the-badge" />
 </p>
+
+---
+
+### 🔹 Backend & API Layer
+- RESTful API design and integration  
+- Backend service orchestration for analytics pipelines  
+- Data validation, logging, and error handling  
+
+---
+
+### 🔹 Databases & Performance
+- MongoDB schema modeling for analytics workloads  
+- Indexing strategies and query optimization  
+- Handling structured and semi-structured datasets  
+
+---
+
+### 🔹 ML Workflow & Engineering Awareness
+- Feature engineering and dataset preparation  
+- Model evaluation and performance metrics  
+- Practical integration of ML outputs into backend systems  
+
+---
+
+### 🔹 Systems & Engineering Mindset
+- Linux-based development environments  
+- Strong understanding of data flow, system boundaries, and scalability  
+- Writing maintainable, production-ready code  
 
 ---
 
